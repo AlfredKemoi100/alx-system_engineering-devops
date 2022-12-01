@@ -1,1 +1,1 @@
-Script showing current directory content with user id
+Script that creates a directory in tmp
