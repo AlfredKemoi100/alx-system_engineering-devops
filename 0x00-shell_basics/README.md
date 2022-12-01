@@ -1,1 +1,1 @@
-Script that copies all HTML files
+Script that copies all html files
