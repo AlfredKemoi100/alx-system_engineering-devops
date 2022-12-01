@@ -1,1 +1,1 @@
-Script creating a symbolic link
+Script creating a symbol link
