@@ -1,1 +1,1 @@
-Script for deleting a file
+Tenth script
