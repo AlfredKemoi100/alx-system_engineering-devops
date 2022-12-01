@@ -1,1 +1,1 @@
-Script that copies all html files
+Script that prints the absolute path
