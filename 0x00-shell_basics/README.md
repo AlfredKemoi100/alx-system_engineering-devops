@@ -1,1 +1,1 @@
-Script to change my working directory to home
+Sript to display contents in long format
