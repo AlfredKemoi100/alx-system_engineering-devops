@@ -1,1 +1,1 @@
-Script showing how to change to previous directory
+Script that lists all files and hidden ones
