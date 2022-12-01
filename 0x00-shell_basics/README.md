@@ -1,1 +1,1 @@
-Sript to display contents in long format
+Script showing current directory contents, including hidden files
