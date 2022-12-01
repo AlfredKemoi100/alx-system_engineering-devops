@@ -1,1 +1,1 @@
-Script that creates a directory in tmp
+Script showing how to move a file
