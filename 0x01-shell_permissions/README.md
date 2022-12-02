@@ -1,1 +1,1 @@
-Script that sets permission to other users only
+Script that sets the mode
