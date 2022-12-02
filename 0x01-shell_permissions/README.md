@@ -1,1 +1,1 @@
-Script that adds permission to everyone
+Script that sets permission to other users only
