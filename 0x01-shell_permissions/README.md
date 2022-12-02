@@ -1,1 +1,1 @@
-Script that prints username
+script printing groups
