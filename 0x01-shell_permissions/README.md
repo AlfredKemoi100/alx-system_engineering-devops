@@ -1,1 +1,1 @@
-script printing groups
+Script changing owner
