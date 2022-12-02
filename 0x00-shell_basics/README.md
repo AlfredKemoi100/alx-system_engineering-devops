@@ -1,1 +1,1 @@
-Script that prints the absolute path
+Script that moves all files uppercase
