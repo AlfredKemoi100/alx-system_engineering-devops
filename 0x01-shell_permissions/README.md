@@ -1,1 +1,1 @@
-Script for multiple permission
+Script that adds permission to everyone
