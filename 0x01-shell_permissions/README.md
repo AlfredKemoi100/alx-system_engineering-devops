@@ -1,1 +1,1 @@
-Script that sets the mode
+Script that sets the mode of a file
