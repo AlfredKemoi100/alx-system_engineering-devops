@@ -1,1 +1,1 @@
-Script that adds permission to all subdirectories
+Script that changes the group owner
