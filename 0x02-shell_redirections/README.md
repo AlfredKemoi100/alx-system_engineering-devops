@@ -1,1 +1,1 @@
-Script that prints “Hello, World”
+script that duplicates the last line of the file
