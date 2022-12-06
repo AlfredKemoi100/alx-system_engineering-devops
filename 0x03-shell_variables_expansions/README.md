@@ -7,3 +7,4 @@ Creating a script that lists all local variables and environment variables, and 
 Creating a script that creates a new local variable
 Creating a script that creates a new global variable
 Script that prints the result of the addition of 128 with the value stored in the environment variable
+Creating a script that prints the result of POWER divided by DIVIDE
