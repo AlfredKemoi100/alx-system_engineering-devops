@@ -12,3 +12,4 @@ Creating a script that displays the result of BREATH to the power LOVE
 Creating a script that converts a number from base 2 to base 10
 Creating a script that prints all possible combinations of two letters, except oo
 Creating a script that prints a number with two decimal places
+Creating  a script that converts a number from base 10 to base 16
